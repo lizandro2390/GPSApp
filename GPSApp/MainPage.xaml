@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Microsoft.Maui.Controls.Maps;assembly=Microsoft.Maui.Controls.Maps"
+             x:Class="GPSApp.MainPage"
+             Title="GPS Tracker">
+
+    <Grid>
+        <!-- Control del mapa para mostrar la ubicación -->
+        <maps:Map x:Name="map"
+                  MapType="Street"
+                  VerticalOptions="FillAndExpand" />
+
+        <!-- Etiquetas para mostrar las coordenadas y la distancia -->
+        <StackLayout VerticalOptions="End" HorizontalOptions="FillAndExpand"
+                     BackgroundColor="White" Padding="10">
+            <Label x:Name="esp32CoordinatesLabel"
+                   Text="ESP32 Coordinates: N/A"
+                   FontSize="Medium"
+                   TextColor="Black" />
+            <Label x:Name="deviceCoordinatesLabel"
+                   Text="Device Coordinates: N/A"
+                   FontSize="Medium"
+                   TextColor="Black" />
+            <Label x:Name="distanceLabel"
+                   Text="Distancia entre dispositivos: N/A"
+                   FontSize="Medium"
+                   TextColor="Black" />
+        </StackLayout>
+    </Grid>
+</ContentPage>
+
+
+
+

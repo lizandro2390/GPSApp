@@ -1,0 +1,7 @@
+# Ignorar archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+*.dbmdl
+*.jfm
