@@ -2,6 +2,11 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Microsoft.Maui.Maps;
+using System;
+using System.Collections.Generic;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace GPSApp
 {
@@ -23,7 +28,11 @@ namespace GPSApp
             InitializeComponent();
             InitializeMap();
             StartLocationUpdates();
+            CenterMapCommand = new Command(CenterMapOnDevice);
+            BindingContext = this;
         }
+
+        public ICommand CenterMapCommand { get; }
 
         private void InitializeMap()
         {
@@ -197,6 +206,14 @@ namespace GPSApp
             }
 
             return poly;
+        }
+
+        private void CenterMapOnDevice()
+        {
+            if (lastDeviceLocation != null)
+            {
+                map.MoveToRegion(MapSpan.FromCenterAndRadius(lastDeviceLocation, Distance.FromKilometers(lastZoomRadius)));
+            }
         }
 
         public class LocationData

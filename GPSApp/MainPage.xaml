@@ -11,24 +11,51 @@
                   MapType="Street"
                   VerticalOptions="FillAndExpand" />
 
-        <!-- Etiquetas para mostrar las coordenadas y la distancia -->
-        <StackLayout VerticalOptions="End" HorizontalOptions="FillAndExpand"
-                     BackgroundColor="White" Padding="10">
-            <Label x:Name="esp32CoordinatesLabel"
-                   Text="ESP32 Coordinates: N/A"
-                   FontSize="Medium"
-                   TextColor="Black" />
-            <Label x:Name="deviceCoordinatesLabel"
-                   Text="Device Coordinates: N/A"
-                   FontSize="Medium"
-                   TextColor="Black" />
-            <Label x:Name="distanceLabel"
-                   Text="Distancia entre dispositivos: N/A"
-                   FontSize="Medium"
-                   TextColor="Black" />
-        </StackLayout>
+        <!-- Panel de información flotante -->
+        <Frame BackgroundColor="White" Opacity="0.9" Padding="10" CornerRadius="10" 
+               HorizontalOptions="End" VerticalOptions="Start" Margin="20">
+            <StackLayout>
+                <Label x:Name="esp32CoordinatesLabel"
+                       Text="ESP32 Coordinates: N/A"
+                       FontSize="Small"
+                       TextColor="Black" />
+                <Label x:Name="deviceCoordinatesLabel"
+                       Text="Device Coordinates: N/A"
+                       FontSize="Small"
+                       TextColor="Black" />
+                <Label x:Name="distanceLabel"
+                       Text="Distancia por la ruta: N/A"
+                       FontSize="Small"
+                       TextColor="Black" />
+            </StackLayout>
+        </Frame>
+
+        <!-- Botón de centrado flotante en tamaño aumentado -->
+        <Frame BackgroundColor="White" Padding="6" CornerRadius="15"
+               HorizontalOptions="Start" VerticalOptions="Start" Margin="20"
+               HasShadow="True" Opacity="0.95">
+            <ImageButton Source="center_icon.png" 
+                         BackgroundColor="White"
+                         WidthRequest="16" HeightRequest="16"
+                         Command="{Binding CenterMapCommand}"
+                         BorderColor="LightGray"
+                         BorderWidth="1"
+                         VerticalOptions="Center" HorizontalOptions="Center">
+                <ImageButton.Shadow>
+                    <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="3"/>
+                </ImageButton.Shadow>
+            </ImageButton>
+        </Frame>
     </Grid>
 </ContentPage>
+
+
+
+
+
+
+
+
 
 
 
