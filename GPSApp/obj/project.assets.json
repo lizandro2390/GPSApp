@@ -39118,11 +39118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lizan\\source\\repos\\GPSApp\\GPSApp\\GPSApp.csproj",
+      "projectUniqueName": "C:\\Users\\lizan\\Source\\Repos\\lizandro2390\\GPSApp\\GPSApp\\GPSApp.csproj",
       "projectName": "GPSApp",
-      "projectPath": "C:\\Users\\lizan\\source\\repos\\GPSApp\\GPSApp\\GPSApp.csproj",
+      "projectPath": "C:\\Users\\lizan\\Source\\Repos\\lizandro2390\\GPSApp\\GPSApp\\GPSApp.csproj",
       "packagesPath": "C:\\Users\\lizan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lizan\\source\\repos\\GPSApp\\GPSApp\\obj\\",
+      "outputPath": "C:\\Users\\lizan\\Source\\Repos\\lizandro2390\\GPSApp\\GPSApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

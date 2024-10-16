@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vY7iuT6r7s=",
+  "dgSpecHash": "aYLJNk6hQjI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lizan\\source\\repos\\GPSApp\\GPSApp\\GPSApp.csproj",
+  "projectFilePath": "C:\\Users\\lizan\\Source\\Repos\\lizandro2390\\GPSApp\\GPSApp\\GPSApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lizan\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\lizan\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
