@@ -59,6 +59,7 @@
 	<ItemGroup>
 	  <None Remove="Resources\Images\center_map_icon.png" />
 	  <None Remove="Resources\Images\exit_icon.png" />
+	  <None Remove="Resources\Images\mapa_3d.png" />
 	</ItemGroup>
 
 	<ItemGroup>

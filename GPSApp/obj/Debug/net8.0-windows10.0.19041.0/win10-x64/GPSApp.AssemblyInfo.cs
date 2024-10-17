@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+acb9aef3dd2ef045e0b6041502a7f997429c39c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e3ee674c09fc48e6ecc402b08f9dd7878fdb2dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

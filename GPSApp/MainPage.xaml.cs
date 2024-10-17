@@ -30,11 +30,13 @@ namespace GPSApp
             StartLocationUpdates();
             CenterMapCommand = new Command(CenterMapOnDevice);
             ExitAppCommand = new Command(ExitApp);
+            ChangeMapTypeCommand = new Command(ChangeMapType); // Nuevo comando para cambiar el tipo de mapa
             BindingContext = this;
         }
 
         public ICommand CenterMapCommand { get; }
         public ICommand ExitAppCommand { get; }
+        public ICommand ChangeMapTypeCommand { get; }  // Comando para el cambio de tipo de mapa
 
         private void InitializeMap()
         {
@@ -44,6 +46,23 @@ namespace GPSApp
             map.Pins.Add(devicePin);
             map.Pins.Add(esp32Pin);
             map.MoveToRegion(MapSpan.FromCenterAndRadius(new Location(0, 0), Distance.FromKilometers(lastZoomRadius)));
+        }
+
+        private void ChangeMapType()
+        {
+            // Alterna entre los tipos de mapa
+            switch (map.MapType)
+            {
+                case MapType.Street:
+                    map.MapType = MapType.Satellite;
+                    break;
+                case MapType.Satellite:
+                    map.MapType = MapType.Hybrid;
+                    break;
+                case MapType.Hybrid:
+                    map.MapType = MapType.Street;
+                    break;
+            }
         }
 
         private async void StartLocationUpdates()
@@ -220,7 +239,6 @@ namespace GPSApp
 
         private void ExitApp()
         {
-            // Cerrar la aplicación
 #if ANDROID
             Android.OS.Process.KillProcess(Android.OS.Process.MyPid());
 #elif IOS
@@ -235,3 +253,6 @@ namespace GPSApp
         }
     }
 }
+
+
+

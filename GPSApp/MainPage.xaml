@@ -30,7 +30,7 @@
             </StackLayout>
         </Frame>
 
-        <!-- Botón de centrado flotante en su posición original -->
+        <!-- Botón de centrado flotante -->
         <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
                HorizontalOptions="Start" VerticalOptions="Start" Margin="20"
                HasShadow="True" Opacity="0.95">
@@ -38,6 +38,21 @@
                          BackgroundColor="Transparent"
                          WidthRequest="44" HeightRequest="44"
                          Command="{Binding CenterMapCommand}"
+                         VerticalOptions="Center" HorizontalOptions="Center">
+                <ImageButton.Shadow>
+                    <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="4"/>
+                </ImageButton.Shadow>
+            </ImageButton>
+        </Frame>
+
+        <!-- Botón para cambiar el tipo de mapa, con el nuevo icono -->
+        <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
+               HorizontalOptions="Start" VerticalOptions="Start" Margin="20,100,20,20"
+               HasShadow="True" Opacity="0.95">
+            <ImageButton Source="mapa_3d.png" 
+                         BackgroundColor="Transparent"
+                         WidthRequest="44" HeightRequest="44"
+                         Command="{Binding ChangeMapTypeCommand}"
                          VerticalOptions="Center" HorizontalOptions="Center">
                 <ImageButton.Shadow>
                     <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="4"/>
@@ -61,6 +76,11 @@
         </Frame>
     </Grid>
 </ContentPage>
+
+
+
+
+
 
 
 
