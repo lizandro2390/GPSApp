@@ -2235,3 +2235,5 @@ C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\
 C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\resizetizer\r\drawable\center_map_icon.png
+C:\Users\lizan\Source\Repos\lizandro2390\GPSApp\GPSApp\obj\Debug\net8.0-android\resizetizer\r\drawable\exit_icon.png

@@ -29,10 +29,12 @@ namespace GPSApp
             InitializeMap();
             StartLocationUpdates();
             CenterMapCommand = new Command(CenterMapOnDevice);
+            ExitAppCommand = new Command(ExitApp);
             BindingContext = this;
         }
 
         public ICommand CenterMapCommand { get; }
+        public ICommand ExitAppCommand { get; }
 
         private void InitializeMap()
         {
@@ -216,6 +218,12 @@ namespace GPSApp
             }
         }
 
+        private void ExitApp()
+        {
+            // Cerrar la aplicación
+            System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
+        }
+
         public class LocationData
         {
             public double Latitude { get; set; }
@@ -223,3 +231,4 @@ namespace GPSApp
         }
     }
 }
+

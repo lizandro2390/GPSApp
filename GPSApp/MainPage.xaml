@@ -30,24 +30,41 @@
             </StackLayout>
         </Frame>
 
-        <!-- Botón de centrado flotante en tamaño aumentado -->
-        <Frame BackgroundColor="White" Padding="6" CornerRadius="15"
+        <!-- Botón de centrado flotante -->
+        <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
                HorizontalOptions="Start" VerticalOptions="Start" Margin="20"
                HasShadow="True" Opacity="0.95">
-            <ImageButton Source="center_icon.png" 
-                         BackgroundColor="White"
-                         WidthRequest="16" HeightRequest="16"
+            <ImageButton Source="center_map_icon.png" 
+                         BackgroundColor="Transparent"
+                         WidthRequest="44" HeightRequest="44"
                          Command="{Binding CenterMapCommand}"
-                         BorderColor="LightGray"
-                         BorderWidth="1"
                          VerticalOptions="Center" HorizontalOptions="Center">
                 <ImageButton.Shadow>
-                    <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="3"/>
+                    <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="4"/>
+                </ImageButton.Shadow>
+            </ImageButton>
+        </Frame>
+
+        <!-- Botón de salida de la app -->
+        <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
+               HorizontalOptions="End" VerticalOptions="End" Margin="20"
+               HasShadow="True" Opacity="0.95">
+            <ImageButton Source="exit_icon.png" 
+                         BackgroundColor="Transparent"
+                         WidthRequest="44" HeightRequest="44"
+                         Command="{Binding ExitAppCommand}"
+                         VerticalOptions="Center" HorizontalOptions="Center">
+                <ImageButton.Shadow>
+                    <Shadow Brush="Gray" Opacity="0.6" Offset="1,1" Radius="4"/>
                 </ImageButton.Shadow>
             </ImageButton>
         </Frame>
     </Grid>
 </ContentPage>
+
+
+
+
 
 
 
