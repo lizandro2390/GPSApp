@@ -221,7 +221,11 @@ namespace GPSApp
         private void ExitApp()
         {
             // Cerrar la aplicación
-            System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
+#if ANDROID
+            Android.OS.Process.KillProcess(Android.OS.Process.MyPid());
+#elif IOS
+            Thread.CurrentThread.Abort();
+#endif
         }
 
         public class LocationData
@@ -231,4 +235,3 @@ namespace GPSApp
         }
     }
 }
-

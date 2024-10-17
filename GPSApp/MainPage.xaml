@@ -30,7 +30,7 @@
             </StackLayout>
         </Frame>
 
-        <!-- Botón de centrado flotante -->
+        <!-- Botón de centrado flotante en su posición original -->
         <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
                HorizontalOptions="Start" VerticalOptions="Start" Margin="20"
                HasShadow="True" Opacity="0.95">
@@ -45,9 +45,9 @@
             </ImageButton>
         </Frame>
 
-        <!-- Botón de salida de la app -->
+        <!-- Botón de salida de la app en la esquina inferior izquierda -->
         <Frame BackgroundColor="#F0F0F0" Padding="8" CornerRadius="50"
-               HorizontalOptions="End" VerticalOptions="End" Margin="20"
+               HorizontalOptions="Start" VerticalOptions="End" Margin="20"
                HasShadow="True" Opacity="0.95">
             <ImageButton Source="exit_icon.png" 
                          BackgroundColor="Transparent"
@@ -61,6 +61,9 @@
         </Frame>
     </Grid>
 </ContentPage>
+
+
+
 
 
 
