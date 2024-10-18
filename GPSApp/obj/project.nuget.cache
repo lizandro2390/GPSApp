@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aYLJNk6hQjI=",
+  "dgSpecHash": "N9Vg+s51e1Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\lizan\\Source\\Repos\\lizandro2390\\GPSApp\\GPSApp\\GPSApp.csproj",
   "expectedPackageFiles": [
@@ -132,7 +132,7 @@
     "C:\\Users\\lizan\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\lizan\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\lizan\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\lizan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.34\\microsoft.windows.sdk.net.ref.10.0.19041.34.nupkg.sha512"
+    "C:\\Users\\lizan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.34\\microsoft.windows.sdk.net.ref.10.0.26100.34.nupkg.sha512"
   ],
   "logs": []
 }

@@ -26,7 +26,7 @@
           "net8.0-android",
           "net8.0-ios",
           "net8.0-maccatalyst",
-          "net8.0-windows10.0.19041.0"
+          "net8.0-windows10.0.26100.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -46,8 +46,8 @@
             "targetAlias": "net8.0-maccatalyst",
             "projectReferences": {}
           },
-          "net8.0-windows10.0.19041": {
-            "targetAlias": "net8.0-windows10.0.19041.0",
+          "net8.0-windows10.0.26100": {
+            "targetAlias": "net8.0-windows10.0.26100.0",
             "projectReferences": {}
           }
         },
@@ -253,8 +253,8 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         },
-        "net8.0-windows10.0.19041": {
-          "targetAlias": "net8.0-windows10.0.19041.0",
+        "net8.0-windows10.0.26100": {
+          "targetAlias": "net8.0-windows10.0.26100.0",
           "dependencies": {
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -303,7 +303,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.34, 10.0.19041.34]"
+              "version": "[10.0.26100.34, 10.0.26100.34]"
             }
           ],
           "frameworkReferences": {

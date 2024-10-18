@@ -16,22 +16,17 @@
                HorizontalOptions="End" VerticalOptions="Start" Margin="20">
             <StackLayout>
                 <Label x:Name="esp32CoordinatesLabel"
-                       Text="Coordenadas del ESP32: N/A"
+                       Text="ESP32 Coordinates: N/A"
                        FontSize="Small"
                        TextColor="Black" />
                 <Label x:Name="deviceCoordinatesLabel"
-                       Text="Coordenadas del Movil: N/A"
+                       Text="Device Coordinates: N/A"
                        FontSize="Small"
                        TextColor="Black" />
                 <Label x:Name="distanceLabel"
                        Text="Distancia por la ruta: N/A"
                        FontSize="Small"
                        TextColor="Black" />
-                <!-- Etiqueta para el tiempo estimado -->
-                <Label x:Name="timeLabel"
-               Text="Tiempo estimado: N/A"
-               FontSize="Small"
-               TextColor="Black" />
             </StackLayout>
         </Frame>
 

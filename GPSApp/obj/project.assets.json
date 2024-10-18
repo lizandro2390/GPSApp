@@ -28666,7 +28666,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041": {
+    "net8.0-windows10.0.26100": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28909,12 +28909,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -28929,116 +28929,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -29049,12 +29049,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29067,12 +29067,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29092,12 +29092,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -29113,12 +29113,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29131,12 +29131,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29149,12 +29149,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -29162,12 +29162,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29478,7 +29478,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/android-arm": {
+    "net8.0-windows10.0.26100/android-arm": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -29707,12 +29707,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -29727,116 +29727,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -29847,12 +29847,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29865,12 +29865,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29890,12 +29890,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -29911,12 +29911,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29929,12 +29929,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -29947,12 +29947,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -29960,12 +29960,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30163,7 +30163,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/android-arm64": {
+    "net8.0-windows10.0.26100/android-arm64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -30392,12 +30392,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -30412,116 +30412,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -30532,12 +30532,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30550,12 +30550,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30575,12 +30575,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -30596,12 +30596,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30614,12 +30614,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30632,12 +30632,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -30645,12 +30645,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -30848,7 +30848,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/android-x64": {
+    "net8.0-windows10.0.26100/android-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -31077,12 +31077,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -31097,116 +31097,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -31217,12 +31217,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31235,12 +31235,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31260,12 +31260,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -31281,12 +31281,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31299,12 +31299,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31317,12 +31317,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -31330,12 +31330,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31533,7 +31533,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/android-x86": {
+    "net8.0-windows10.0.26100/android-x86": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -31762,12 +31762,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -31782,116 +31782,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -31902,12 +31902,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31920,12 +31920,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31945,12 +31945,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -31966,12 +31966,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -31984,12 +31984,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32002,12 +32002,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -32015,12 +32015,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32218,7 +32218,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/iossimulator-x64": {
+    "net8.0-windows10.0.26100/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -32447,12 +32447,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -32467,116 +32467,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -32587,12 +32587,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32605,12 +32605,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32630,12 +32630,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -32651,12 +32651,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32669,12 +32669,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32687,12 +32687,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -32700,12 +32700,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -32900,7 +32900,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/maccatalyst-x64": {
+    "net8.0-windows10.0.26100/maccatalyst-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33129,12 +33129,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -33149,116 +33149,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -33269,12 +33269,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33287,12 +33287,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33312,12 +33312,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -33333,12 +33333,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33351,12 +33351,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33369,12 +33369,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -33382,12 +33382,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33585,7 +33585,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/win10-x64": {
+    "net8.0-windows10.0.26100/win10-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33817,12 +33817,12 @@
           "Microsoft.Maui.Controls.Xaml": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Compatibility.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Compatibility.dll": {
             "related": ".pdb;.pri;.xml"
           }
         }
@@ -33837,116 +33837,116 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "resource": {
-          "lib/net8.0-windows10.0.19041/ar/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ar/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ar"
           },
-          "lib/net8.0-windows10.0.19041/ca/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ca/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ca"
           },
-          "lib/net8.0-windows10.0.19041/cs/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/cs/Microsoft.Maui.Controls.resources.dll": {
             "locale": "cs"
           },
-          "lib/net8.0-windows10.0.19041/da/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/da/Microsoft.Maui.Controls.resources.dll": {
             "locale": "da"
           },
-          "lib/net8.0-windows10.0.19041/de/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/de/Microsoft.Maui.Controls.resources.dll": {
             "locale": "de"
           },
-          "lib/net8.0-windows10.0.19041/el/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/el/Microsoft.Maui.Controls.resources.dll": {
             "locale": "el"
           },
-          "lib/net8.0-windows10.0.19041/es/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/es/Microsoft.Maui.Controls.resources.dll": {
             "locale": "es"
           },
-          "lib/net8.0-windows10.0.19041/fi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fi"
           },
-          "lib/net8.0-windows10.0.19041/fr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/fr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "fr"
           },
-          "lib/net8.0-windows10.0.19041/he/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/he/Microsoft.Maui.Controls.resources.dll": {
             "locale": "he"
           },
-          "lib/net8.0-windows10.0.19041/hi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hi"
           },
-          "lib/net8.0-windows10.0.19041/hr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hr"
           },
-          "lib/net8.0-windows10.0.19041/hu/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/hu/Microsoft.Maui.Controls.resources.dll": {
             "locale": "hu"
           },
-          "lib/net8.0-windows10.0.19041/id/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/id/Microsoft.Maui.Controls.resources.dll": {
             "locale": "id"
           },
-          "lib/net8.0-windows10.0.19041/it/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/it/Microsoft.Maui.Controls.resources.dll": {
             "locale": "it"
           },
-          "lib/net8.0-windows10.0.19041/ja/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ja/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ja"
           },
-          "lib/net8.0-windows10.0.19041/ko/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ko/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ko"
           },
-          "lib/net8.0-windows10.0.19041/ms/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ms/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ms"
           },
-          "lib/net8.0-windows10.0.19041/nb/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nb/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nb"
           },
-          "lib/net8.0-windows10.0.19041/nl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/nl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "nl"
           },
-          "lib/net8.0-windows10.0.19041/pl/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pl/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pl"
           },
-          "lib/net8.0-windows10.0.19041/pt-BR/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt-BR/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt-BR"
           },
-          "lib/net8.0-windows10.0.19041/pt/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/pt/Microsoft.Maui.Controls.resources.dll": {
             "locale": "pt"
           },
-          "lib/net8.0-windows10.0.19041/ro/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ro/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ro"
           },
-          "lib/net8.0-windows10.0.19041/ru/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/ru/Microsoft.Maui.Controls.resources.dll": {
             "locale": "ru"
           },
-          "lib/net8.0-windows10.0.19041/sk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sk"
           },
-          "lib/net8.0-windows10.0.19041/sv/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/sv/Microsoft.Maui.Controls.resources.dll": {
             "locale": "sv"
           },
-          "lib/net8.0-windows10.0.19041/th/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/th/Microsoft.Maui.Controls.resources.dll": {
             "locale": "th"
           },
-          "lib/net8.0-windows10.0.19041/tr/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/tr/Microsoft.Maui.Controls.resources.dll": {
             "locale": "tr"
           },
-          "lib/net8.0-windows10.0.19041/uk/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/uk/Microsoft.Maui.Controls.resources.dll": {
             "locale": "uk"
           },
-          "lib/net8.0-windows10.0.19041/vi/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/vi/Microsoft.Maui.Controls.resources.dll": {
             "locale": "vi"
           },
-          "lib/net8.0-windows10.0.19041/zh-HK/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-HK/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-HK"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hans/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hans"
           },
-          "lib/net8.0-windows10.0.19041/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
+          "lib/net8.0-windows10.0.20348/zh-Hant/Microsoft.Maui.Controls.resources.dll": {
             "locale": "zh-Hant"
           }
         }
@@ -33957,12 +33957,12 @@
           "Microsoft.Maui.Maps": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -33975,12 +33975,12 @@
           "Microsoft.Maui.Core": "8.0.91"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Controls.Xaml.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Controls.Xaml.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -34000,12 +34000,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.dll": {
             "related": ".pdb;.pri;.xml"
           }
         },
@@ -34021,12 +34021,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Essentials.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Essentials.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -34039,12 +34039,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -34057,12 +34057,12 @@
           "Microsoft.WindowsAppSDK": "1.5.240802000"
         },
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
             "related": ".pdb"
           }
         }
@@ -34070,12 +34070,12 @@
       "Microsoft.Maui.Maps/8.0.91": {
         "type": "package",
         "compile": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net8.0-windows10.0.19041/Microsoft.Maui.Maps.dll": {
+          "lib/net8.0-windows10.0.20348/Microsoft.Maui.Maps.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -39100,7 +39100,7 @@
       "System.Net.Http.Json >= 8.0.1",
       "sqlite-net-pcl >= 1.9.172"
     ],
-    "net8.0-windows10.0.19041": [
+    "net8.0-windows10.0.26100": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.91",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.91",
@@ -39137,7 +39137,7 @@
         "net8.0-android",
         "net8.0-ios",
         "net8.0-maccatalyst",
-        "net8.0-windows10.0.19041.0"
+        "net8.0-windows10.0.26100.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -39157,8 +39157,8 @@
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {}
         },
-        "net8.0-windows10.0.19041": {
-          "targetAlias": "net8.0-windows10.0.19041.0",
+        "net8.0-windows10.0.26100": {
+          "targetAlias": "net8.0-windows10.0.26100.0",
           "projectReferences": {}
         }
       },
@@ -39364,8 +39364,8 @@
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       },
-      "net8.0-windows10.0.19041": {
-        "targetAlias": "net8.0-windows10.0.19041.0",
+      "net8.0-windows10.0.26100": {
+        "targetAlias": "net8.0-windows10.0.26100.0",
         "dependencies": {
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
@@ -39414,7 +39414,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
-            "version": "[10.0.19041.34, 10.0.19041.34]"
+            "version": "[10.0.26100.34, 10.0.26100.34]"
           }
         ],
         "frameworkReferences": {

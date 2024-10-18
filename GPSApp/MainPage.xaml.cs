@@ -23,9 +23,6 @@ namespace GPSApp
         private Location lastCenterLocation;
         private double lastZoomRadius = 1.0;
 
-        // Variables para almacenar la duración de la ruta
-        private string routeDuration = "N/A";
-
         public MainPage()
         {
             InitializeComponent();
@@ -166,10 +163,6 @@ namespace GPSApp
 
                         distanceLabel.Text = $"Distancia por la ruta: {totalDistance:F2} km";
 
-                        // Captura la duración estimada de la ruta
-                        routeDuration = routeData["routes"][0]["legs"][0]["duration"]["text"].ToString();
-                        timeLabel.Text = $"Tiempo estimado: {routeDuration}";
-
                         var midLatitude = (lastDeviceLocation.Latitude + lastEsp32Location.Latitude) / 2;
                         var midLongitude = (lastDeviceLocation.Longitude + lastEsp32Location.Longitude) / 2;
                         var centerLocation = new Location(midLatitude, midLongitude);
@@ -260,8 +253,6 @@ namespace GPSApp
         }
     }
 }
-
-
 
 
 
